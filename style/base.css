@@ -1,0 +1,9 @@
+.logout {
+    color: rgb(0, 132, 255);
+}
+
+.logout:hover {
+    color: var(--jp-ui-font-color1);
+}
+
+    
